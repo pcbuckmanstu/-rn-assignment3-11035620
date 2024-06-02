@@ -1,4 +1,4 @@
-# rn-assignment3-11035620
+
 # rn-assignment3-11035620
 
 This is a React Native application for managing tasks, designed to closely match the provided UI design. The app utilizes various core components and custom components to achieve the desired functionality and appearance.
